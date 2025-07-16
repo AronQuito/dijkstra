@@ -1,0 +1,3 @@
+C:/CODIGO/dijkstra/build/CMakeFiles/main.dir
+C:/CODIGO/dijkstra/build/CMakeFiles/edit_cache.dir
+C:/CODIGO/dijkstra/build/CMakeFiles/rebuild_cache.dir
